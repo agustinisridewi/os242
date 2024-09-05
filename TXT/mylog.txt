@@ -1,13 +1,29 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 20 L00 General, etc.
-ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 100 L02 CLASSROOM related
+ZCZC W00 20 L01 SCELE related
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 15 L04 GitHub Pages related
-ZCZC W00 100 L05 CLASSROOM related
-ZCZC W00 10 L06 QUIZ
-ZCZC W00 10 L07 SCELE/Discord related
-ZCZC W00 60 L08 Weekly Assignments
-ZCZC W00 120 L09 Birthday Dinner
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L11 Finished Assignment #01
+ZCZC W00 10 L12 Finished Assignment #02
+ZCZC W00 10 L13 Finished Assignment #03
+ZCZC W00 05 L14 Assignment #04
+ZCZC W00 100 L02 CLASSROOM 26/08/2024
+ZCZC W00 10 L01 SCELE related (checking new assignments)
+ZCZC W00 100 L02 CLASSROOM 28/08/2024
+ZCZC W00 60 L15 Assignment #05
+ZCZC W00 15 L16 Assignment #06
+ZCZC W00 30 L05 Quiz related 
+# ------------------------------------------------------
+ZCZC W01 10 L01 SCELE related (checking new assignments)
+ZCZC W01 100 L02 CLASSROOM 2/09/2024
+ZCZC W01 60 L61 Install UTM
+ZCZC W01 60 L62 Install Virtual Debian Guest
+ZCZC W01 10 L01 SCELE related (checking new assignments)
+ZCZC W01 100 L02 CLASSROOM 4/09/2024
+
+
+
+
+
+
