@@ -22,9 +22,10 @@ ZCZC W01 60 L61 Install UTM
 ZCZC W01 60 L62 Install Virtual Debian Guest
 ZCZC W01 10 L01 SCELE related (checking new assignments)
 ZCZC W01 100 L02 CLASSROOM 4/09/2024
-
-
-
-
+ZCZC W01 240 L11 Setup a Virtual Debian Guest
+ZCZC W01 10 L12 Connecting to GIT, GITHUB, and SSH
+ZCZC W01 90 L13 GSGS
+ZCZC W01 30 L14 LINKS/
+ZCZC W01 10 L15 Adding myupdate.txt and updating mylog.txt
 
 
