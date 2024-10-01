@@ -21,3 +21,12 @@ permalink: LINKS/
 - [Operating System Concepts 10th Edition, chapter 13, 14, 15](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 - [FUSE](https://www.youtube.com/watch?v=1zvOdR02hk4) Understand the concept of FUSE in 5 minutes. Provide comprehensible real life examples of how we can mount to manipulate file systems.
 - [The Linux Kernel Documentation on FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html) This comprehensive guide explains the workings of FUSE, its design, and how it allows users to create their own file systems without altering the kernel.
+
+## Week 04: Addressing, Shared Lib, & Pointer
+- [slide](https://docos.vlsm.org/Slides/os04.pdf) containing materials provided by C. BinKadal. In Linux, shared libraries are collections of precompiled functions that can be used by multiple programs simultaneously. They are loaded into memory only once and shared by all running programs, which reduces the overall memory footprint.
+- [assignment week 04](https://demos.vlsm.org/) containing assignments and reading materials. handling a tarball file (downloading, decrypting, extracting, and checking the contents of the file)
+- [Operating System Concepts 10th Edition, chapter 9](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+- [Memory Addressing in Operating Systems](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)This article covers memory addressing in operating systems, including logical and physical addressing.
+- [Shared Libraries in Linux](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/)Explains shared libraries in Linux, dynamic linking, and loading.
+- [Pointers in C](https://www.programiz.com/c-programming/c-pointers)A comprehensive guide to pointers in C programming, with examples.
+- [Understand Pointers in 8 minutes](https://www.youtube.com/watch?v=2ybLD6_2gKM)This video shows you what a pointer is, as it applies to low level memory access.
