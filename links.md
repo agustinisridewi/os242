@@ -30,3 +30,11 @@ permalink: LINKS/
 - [Shared Libraries in Linux](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/)Explains shared libraries in Linux, dynamic linking, and loading.
 - [Pointers in C](https://www.programiz.com/c-programming/c-pointers)A comprehensive guide to pointers in C programming, with examples.
 - [Understand Pointers in 8 minutes](https://www.youtube.com/watch?v=2ybLD6_2gKM)This video shows you what a pointer is, as it applies to low level memory access.
+
+## Week 05: Virtual Memory
+- [slide](https://docos.vlsm.org/Slides/os04.pdf) containing materials provided by C. BinKadal.Algorithms like FIFO, Optimal, and LRU are essential for managing memory efficiently, especially in systems with limited resources. 
+- [assignment week 04](https://demos.vlsm.org/) containing assignments and reading materials. I find this weeks low memory test interesting.
+- [Operating System Concepts 10th Edition, chapter 10](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+- [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) This article explains the concept of virtual memory, detailing how it separates logical memory (what programs see) from physical memory (the actual RAM)
+- [Demand Paging](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) This article covers how demand paging works, explaining concepts like page tables and page faults.
+- [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) This article dives into various page replacement algorithms, including First-In-First-Out (FIFO), Least Recently Used (LRU), and the Optimal algorithm. 
