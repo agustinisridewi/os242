@@ -90,3 +90,24 @@ ZCZC W04 30 L43 TXT/myrank.txt related
 ZCZC W04 60 L41 TXT/mylog.txt related.
 ZCZC W04 10 L26 encrypting
 ZCZC W04 15 L15 Finished Assignment #05
+# ------------------------------------------------------
+ZCZC W05 15 L01 SCELE related (checking new assignments)
+ZCZC W05 120 L02 CLASSROOM(replaced with watching youtube video) 30/09/2024
+ZCZC W05 40 L22 fixing tar attn
+ZCZC W05 90 L06 References/Books
+ZCZC W05 15 L01 SCELE related (checking new assignments)
+ZCZC W05 100 L02 CLASSROOM 02/09/2024
+ZCZC W05 10 L07 Demo related
+ZCZC W05 15 L11 Finished Assignment #01
+ZCZC W05 20 L12 Finished Assignment #02
+ZCZC W05 30 L13 Finished Assignment #03
+ZCZC W05 10 L24 Assignment Script
+ZCZC W05 5 L14 Finished Assignment #04
+ZCZC W05 95 L05 PopQuiz
+ZCZC W05 40 L06 References for links.md
+ZCZC W05 30 L43 TXT/myrank.txt related
+ZCZC W05 20 L41 TXT/mylog.txt related.
+ZCZC W05 60 L15 Finished Assignment #05
+ZCZC W05 10 L16 Finished Assignment #06
+ZCZC W05 5 L26 encrypting
+ZCZC W05 10 L05 Weekly Quiz
