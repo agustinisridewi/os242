@@ -26,15 +26,22 @@ permalink: LINKS/
 - [slide](https://docos.vlsm.org/Slides/os04.pdf) containing materials provided by C. BinKadal. In Linux, shared libraries are collections of precompiled functions that can be used by multiple programs simultaneously. They are loaded into memory only once and shared by all running programs, which reduces the overall memory footprint.
 - [assignment week 04](https://demos.vlsm.org/) containing assignments and reading materials. handling a tarball file (downloading, decrypting, extracting, and checking the contents of the file)
 - [Operating System Concepts 10th Edition, chapter 9](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
-- [Memory Addressing in Operating Systems](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)This article covers memory addressing in operating systems, including logical and physical addressing.
-- [Shared Libraries in Linux](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/)Explains shared libraries in Linux, dynamic linking, and loading.
-- [Pointers in C](https://www.programiz.com/c-programming/c-pointers)A comprehensive guide to pointers in C programming, with examples.
-- [Understand Pointers in 8 minutes](https://www.youtube.com/watch?v=2ybLD6_2gKM)This video shows you what a pointer is, as it applies to low level memory access.
+- [Memory Addressing in Operating Systems](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) This article covers memory addressing in operating systems, including logical and physical addressing.
+- [Shared Libraries in Linux](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/) Explains shared libraries in Linux, dynamic linking, and loading.
+- [Pointers in C](https://www.programiz.com/c-programming/c-pointers) A comprehensive guide to pointers in C programming, with examples.
+- [Understand Pointers in 8 minutes](https://www.youtube.com/watch?v=2ybLD6_2gKM) This video shows you what a pointer is, as it applies to low level memory access.
 
 ## Week 05: Virtual Memory
-- [slide](https://docos.vlsm.org/Slides/os04.pdf) containing materials provided by C. BinKadal.Algorithms like FIFO, Optimal, and LRU are essential for managing memory efficiently, especially in systems with limited resources. 
-- [assignment week 04](https://demos.vlsm.org/) containing assignments and reading materials. I find this weeks low memory test interesting.
+- [slide](https://docos.vlsm.org/Slides/os05.pdf) containing materials provided by C. BinKadal.Algorithms like FIFO, Optimal, and LRU are essential for managing memory efficiently, especially in systems with limited resources. 
+- [assignment week 05](https://demos.vlsm.org/) containing assignments and reading materials. I find this weeks low memory test interesting.
 - [Operating System Concepts 10th Edition, chapter 10](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 - [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) This article explains the concept of virtual memory, detailing how it separates logical memory (what programs see) from physical memory (the actual RAM)
 - [Demand Paging](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) This article covers how demand paging works, explaining concepts like page tables and page faults.
 - [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) This article dives into various page replacement algorithms, including First-In-First-Out (FIFO), Least Recently Used (LRU), and the Optimal algorithm. 
+
+## Week 06: Concurrency: Processes & Threads
+- [slide](https://docos.vlsm.org/Slides/os06.pdf) containing materials provided by C. BinKadal. 
+- [assignment week 06](https://demos.vlsm.org/) containing assignments and reading materials. One interesting fact is that multicore programming allows multiple threads to run simultaneously on different cores, significantly enhancing performance and efficiency in modern operating systems.
+- [Operating System Concepts 10th Edition, chapter 3, 4](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) 
+- [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) The page succinctly explains threads and concurrency, offering key concepts and examples that clarify their significance in operating systems.
+- [Processes and Threads](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html) The page provides a comprehensive overview of process and thread management in Java, highlighting key concepts and practical examples that enhance understanding of concurrency and its importance in developing efficient multi-threaded applications.
