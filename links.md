@@ -45,3 +45,13 @@ permalink: LINKS/
 - [Operating System Concepts 10th Edition, chapter 3, 4](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) 
 - [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) The page succinctly explains threads and concurrency, offering key concepts and examples that clarify their significance in operating systems.
 - [Processes and Threads](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html) The page provides a comprehensive overview of process and thread management in Java, highlighting key concepts and practical examples that enhance understanding of concurrency and its importance in developing efficient multi-threaded applications.
+
+- [slide](https://docos.vlsm.org/Slides/os07.pdf) containing materials provided by C. BinKadal.
+- [assignment week 07](https://demos.vlsm.org/) containing assignments and reading materials. 
+- [Operating System Concepts 10th Edition, chapter 6, 7, 8](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+- [Difference Between Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) This article provides a clear definition comparison between two critical issues in operating systems: deadlock and starvation. 
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) This article provides a comprehensive overview of the concept of process synchronization in operating systems, which is essential for managing concurrent processes that share resources.
+- [Process Synchronization Playlist by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) This playlist covers essential topics, including: Mutual Exclusions, Semaphores, Deadlocks, and Synchronization Mechanisms
+
+
+

@@ -127,4 +127,22 @@ ZCZC W06 30 L43 TXT/myrank.txt related
 ZCZC W06 40 L41 TXT/mylog.txt related.
 ZCZC W06 10 L26 encrypting
 ZCZC W06 10 L15 Finished Assignment #05
+# ------------------------------------------------------
+ZCZC W07 15 L01 SCELE related (checking new assignments)
+ZCZC W07 100 L02 CLASSROOM 30/10/2024
+ZCZC W05 15 L09 fixing popquiz 2 week 6 attn
+ZCZC W07 60 L06 References/Books
+ZCZC W07 15 L01 SCELE related (checking new assignment)
+ZCZC W07 100 L02 CLASSROOM 4/11/2024
+ZCZC W07 5 L07 Demo related
+ZCZC W07 120 L06 Browsing/GSGS related
+ZCZC W07 5 L11 Finished Assignment #01
+ZCZC W07 10 L12 Finished Assignment #02
+ZCZC W07 90 L13 Finished Assignment #03
+ZCZC W07 180 L05 PopQuiz and Quiz related
+ZCZC W07 60 L06 References for links.md
+ZCZC W07 30 L43 TXT/myrank.txt related
+ZCZC W07 30 L41 TXT/mylog.txt related
+ZCZC W07 10 L26 encrypting
+ZCZC W07 10 L14 Finished Assignment #04
 
